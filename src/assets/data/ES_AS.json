@@ -15,6 +15,59 @@
 
 		{"id": "CA001", "name": "ATCO Group (Canada)", "num": "0", "price": "0", "address":"5302 Forand St. S.W. Calgary, Alberta, Canada T3E 8B4", "web": "https://www.atco.com/", "coords": "51.00663827142912, -114.12001003798993", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
-		{"id": "ES001", "name": "NorgesHus Modular Houses (Estonia)", "num": "0", "price": "0", "address":"Kuivati tee, Perila, 75212 Harju maakond, Estonia", "web": "https://www.norgeshus.eu/", "coords": "59.28489035951173, 25.158442985932403", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
+		{"id": "ES001", "name": "NorgesHus Modular Houses (Estonia)", "num": "0", "price": "0", "address":"Kuivati tee, Perila, 75212 Harju maakond, Estonia", "web": "https://www.norgeshus.eu/", "coords": "59.28489035951173, 25.158442985932403", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "ES002", "name": "Arctic Finland House (Estonia)", "num": "0", "price": "0", "address":"Koeru tee 17a 73301, Järva-Jaani Järvamaa, ESTONIA", "web": "https://arcticfinland.com/", "coords": "61.469737986989166, 23.71135909989429", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "ES003", "name": "CompactLiving (Estonia)", "num": "0", "price": "0", "address":"Kärba mü, Haljava, 75203 Harju maakond, Estonia", "web": "https://www.compactliving.ee/", "coords": "59.38644268144223, 25.184053271164867", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "ES004", "name": "Cube House (Estonia)", "num": "0", "price": "0", "address":"31A Freedom Street, Kohila, Rapla County, Estonia", "web": "https://cubehouse.ee/en/", "coords": "59.16901914821253, 24.73601727093268", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "LI001", "name": "NP5 (Lithuania)", "num": "0", "price": "0", "address":"Kreivoji g. 7, Šiauliai LT-78109 Lithuania", "web": "https://www.np5.eu/", "coords": "55.91869419379543, 23.325427780394573", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "LI002", "name": "Baltic Tiny House (Lithuania)", "num": "0", "price": "0", "address":"Klaipeda 91121, Lithuania", "web": "https://baltictinyhouse.com/", "coords": "55.19475883425614, 25.449564715841376", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "LI003", "name": "Dolena (Lithuania)", "num": "0", "price": "0", "address":"Geležinkelio pylimo g. 4, Gargždai, 96157 Klaipėdos r. sav., Lithuania", "web": "https://loghouses.lt/", "coords": "55.70521812957375, 21.37089710738376", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "BG001", "name": "Nextribe (Bulgaria)", "num": "0", "price": "0", "address":"58 Alabin str, Sofia, Bulgaria", "web": "https://nextribe.eu/", "coords": "42.69506866792229, 23.326257819859304", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "BG002", "name": "Ecobox Ltd. (Bulgaria)", "num": "0", "price": "0", "address":"12 Iliantsi blvd., 1220 Sofia, Bulgaria", "web": "https://www.escapehouse.store/", "coords": "42.74234753402689, 23.31131980837516", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "BG003", "name": "Green Cube House Ltd. (Bulgaria)", "num": "0", "price": "0", "address":"Plovdiv 4000, Bulgaria", "web": "https://www.greencubehouse.com", "coords": "42.144827262995925, 24.75235039955003", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "LV001", "name": "Wood Design Home (Latvia)", "num": "0", "price": "0", "address":"Lielvārde LV-5070, Latvia", "web": "https://wooddesign.lv/", "coords": "56.718135827682325, 24.81628905545226", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "LV002", "name": "Arma Houses (Latvia)", "num": "0", "price": "0", "address":"Riga LV1009, Latvia", "web": "https://armamodular.com/en", "coords": "56.9595506687709, 24.107510497803197", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "LV003", "name": "Axo Home (Latvia)", "num": "0", "price": "0", "address":"Strēlnieku iela 5, Centra rajons, Rīga, LV-1010, Latvia", "web": "https://axohouse.eu/", "coords": "56.959601093898804, 24.107620101845942", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "LV004", "name": "Brette Haus (Latvia)", "num": "0", "price": "0", "address":"Merķeļa iela 6-6, Centra rajons, Rīga, LV-1050, Latvia", "web": "https://brette.haus/", "coords": "56.94943607971256, 24.119954886505408", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "LV005", "name": "Ecospace Haus (Latvia)", "num": "0", "price": "0", "address":"Šmerļa iela, Vidzemes priekšpilsēta, Rīga, LV-1006, Latvia", "web": "https://www.ecospace.lv/en", "coords": "56.97860554735379, 24.210077030681067", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "IT001", "name": "A-fold (Italy)", "num": "0", "price": "0", "address":"Via Piano di Sacco, Città Sant'Angelo, Abruzzo 65013, IT", "web": "https://www.a-fold.com/", "coords": "42.491826661069766, 14.032262225941432", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "DK001", "name": "AddARoom (Denmark)", "num": "0", "price": "0", "address":"6900 Skjern, Denmark", "web": "https://addaroom.dk/en/", "coords": "55.9627185321775, 8.371359084659462", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "PL001", "name": "Aiger House (Poland)", "num": "0", "price": "0", "address":"ul. Hermanowska 6a, 54-314 Poland, Wroclaw", "web": "https://aigerhouse.com/", "coords": "51.12152272642509, 16.9571723533285", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PL002", "name": "Aurora Company (Poland)", "num": "0", "price": "0", "address":"Rokiciny Podhalańskie 190 A, 34-721 Raba Wyżna (Poland)", "web": "https://auroracompany.pl/en/", "coords": "49.574575658357915, 19.899863753253186", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PL003", "name": "Domihous (Poland)", "num": "0", "price": "0", "address":"Ściechówek 60, 66-433, Poland", "web": "https://domihaus.com/", "coords": "52.83654116769745, 15.014478388351343", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "FI001", "name": "Aito Lapland (Finland)", "num": "0", "price": "0", "address":"Teknotie 14-16, 96930 Rovaniemi, Finland", "web": "https://www.loghouse.fi/", "coords": "66.54674297298911, 25.826735430681072", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "FR001", "name": "atelier Parenthèse (France)", "num": "0", "price": "0", "address":"56 Rue de la Boule d'Or, 45340 Nibelle, France", "web": "https://atelierparenthese-tinyhouse.fr/", "coords": "48.01620884939798, 2.3003821693189166", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "SW001", "name": "Ateljé Houses (Sweeden)", "num": "0", "price": "0", "address":"c/o Waldemarson Arkitekter Skepppargatan 18 114 32 Stockholm", "web": "https://ateljehouses.se/", "coords": "59.333664114503186, 18.082875373010804", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "UK001", "name": "Bauhu (UK)", "num": "0", "price": "0", "address":"Douglas IM1 1AR, United Kingdom", "web": "https://bauhu.com/", "coords": "53.66431039711707, -3.5600908423596", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "RO001", "name": "Best Tiny Houses (Romania)", "num": "0", "price": "0", "address":"Dumbravita 307160, Romania", "web": "https://tinyhomeromania.ro/en/", "coords": "45.808360422802515, 21.229003358726615", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "RO002", "name": "Domu (Romania)", "num": "0", "price": "0", "address":"Bucharest 031726, Romania", "web": "https://domu.ro/", "coords": "44.428667133310945, 26.10073555569739", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "RO003", "name": "Eco Tiny House (Romania)", "num": "0", "price": "0", "address":"Strada Leliceni 68, 530190 Miercurea Ciuc, Romania", "web": "https://ecotiny.house/", "coords": "46.35776537276918, 25.81776851718648", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "SL001", "name": "BIGHEAD (Slovenia)", "num": "0", "price": "0", "address":"Mladinska cesta 1, 4000 Kranj, Slovenia", "web": "https://www.bigheadtents.com/", "coords": "46.24478322830234, 14.356316454942624", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "CZ001", "name": "Blokki (Czech Republic)", "num": "0", "price": "0", "address":"Domkki Blokki s.r.o. Hartigova 651/22 130 00 Praha 3 IČ 24057169", "web": "https://blokki.cz/", "coords": "50.08736136131056, 14.455544697453654", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "NL001", "name": "Chaletleverancier (Netherlands)", "num": "0", "price": "0", "address":"Fascinatio Boulevard 522, 2909 VA Capelle aan den IJssel, Netherlands", "web": "https://www.chaletcenter.be/", "coords": "51.91560436253092, 4.541756361362153", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "AU001", "name": "Commod House (Austria)", "num": "0", "price": "0", "address":"Heinrichstraße 4, 8010 Graz, Austria", "web": "https://www.commod-house.com/en/", "coords": "47.078107871677496, 15.444266115340538", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "GR001", "name": "Domeco (Greece)", "num": "0", "price": "0", "address":"Thessaloniki 57001, Greece", "web": "https://www.facebook.com/DOMECOconstructioncompany/?locale=el_GR", "coords": "40.52261140191058, 23.028440407383766", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "NO001", "name": "Forward Homes (Norway)", "num": "0", "price": "0", "address":"Ekebergveien 219b 1162 Oslo", "web": "https://forwardhomes.no/", "coords": "59.864059790472275, 10.797225599805715", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "HU001", "name": "Green Tiny (Hungary)", "num": "0", "price": "0", "address":"9174 Dunaszeg, Hungary", "web": "https://greentinyhouses.com/", "coords": "47.78191409763918, 17.549090970036588", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "HU001", "name": "Hello Wood (Hungary)", "num": "0", "price": "0", "address":"Budapest, Fő tér 1, 1033 Hungary", "web": "https://hellowood.com/", "coords": "47.541558666188756, 19.04620254417567", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
+
 	]
 }
