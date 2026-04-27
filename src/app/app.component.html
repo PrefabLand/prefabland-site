@@ -1,0 +1,20 @@
+<style>
+  .main {
+		position:relative;
+		overflow:hidden;
+
+    height: 100vh;
+    display: flex;
+
+    /* Direction of the items, can be row or column */
+    flex-direction: column;
+  }
+</style>
+
+<main class="main">
+
+	<header-component></header-component>
+	<router-outlet></router-outlet>
+	<footer-component></footer-component>
+
+</main>

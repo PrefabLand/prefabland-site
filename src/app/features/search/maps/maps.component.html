@@ -1,0 +1,9 @@
+<google-map height="100%" width="auto" [options]="options" (mapClick)="clickMap($event)">
+  @for (circle of circles; track circle.id; let index = $index){
+    <map-circle [options]="circle.circleOptions" [center]="circle"/>
+    <map-marker #marker="mapMarker" [position]="circle.markerOptions" [options]="circle.markerOptions" (mapClick)="openMarkerInfoWindow(marker, index)" (mapMouseover)="mouseOverMarker(marker)" (mapMouseout)="mouseOutMarker(marker)" />
+    <map-info-window>
+         <div [innerHTML]="circle.markerWindowInfo.html"></div>
+    </map-info-window>
+  }
+</google-map>

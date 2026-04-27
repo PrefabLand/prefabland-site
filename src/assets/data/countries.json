@@ -1,0 +1,11 @@
+[
+	{ "name": "España", "code": "ES", "inactive": false, "cities": [
+		{ "name": "Asturias", "code": "AS", "inactive": false, "visible": true },
+		{ "name": "Cantabria", "code": "CT", "inactive": false, "visible": true }
+	]}, 
+	{ "name": "Portugal", "code": "PT", "inactive": true, "cities": [
+	]}, 
+	{ "name": "México", "code": "MX", "inactive": false, "cities": [
+		{ "name": "Cuernavaca", "code": "CV", "inactive": false, "visible": true }
+	]}
+]
