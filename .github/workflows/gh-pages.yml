@@ -1,0 +1,48 @@
+name: Build and Deploy Script
+on:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Adding Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.5.0
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: 'Create .env file'
+        run: |
+          touch .env
+          echo NG_APP_GOOGLE_MAPS_KEY=${{ secrets.NG_APP_GOOGLE_MAPS_KEY }} >> .env
+          cat .env
+
+      - name: Build
+        run: npm run build:github
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist/primebox/browser'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+
