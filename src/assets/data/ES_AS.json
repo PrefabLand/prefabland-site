@@ -1,8 +1,6 @@
 { 
 	"coords" : {"lat": 43.40968965757524, "lng": -5.560350486505404, "zoom": 2},
 	"RES" : [
-		{"id": "CH001", "name": "Gliami (Chine)", "num": "0", "price": "0", "address":"Dong Shandong Road North,Jiulonggang Town,Datong District Jiulonggang,Huainan City Town,Anhui Province.", "web": "https://glamni.com/", "coords": "32.61294456948655, 117.10129436973642", "gob": "no", "score": "5", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
-
 		{"id": "JP001", "name": "Sekisui House Ltd. (Japan)", "num": "0", "price": "0", "address":"1-1-88, Oyodonaka, Kita-ku, Osaka, 531-0076, Japan", "web": "https://www.sekisuihouse.co.jp/", "coords": "34.70544245396581, 135.48961166796374", "gob": "no", "score": "4.1", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "JP002", "name": "Daiwa House Industry Co., Ltd. (Japan)", "num": "0", "price": "0", "address":"3-3-5 Umeda, Kita-ku, Osaka 530-8241", "web": "https://www.daiwahouse.com/", "coords": "34.69959352810057, 135.4922834682501", "gob": "no", "score": "3.6", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
@@ -312,6 +310,7 @@
 		{"id": "IE004", "name": "Elite Modular Home (Ireland)", "num": "0", "price": "0", "address":"Knockmeenagh Industrial Estate, Clondalkin, Dublin, D22 AC98, Ireland", "web": "https://elitemodularhomes.com/", "coords": "53.316538068609546, -6.3844400888913775", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "IE005", "name": "BRB Homes (Ireland)", "num": "0", "price": "0", "address":"Byrne Rapid Build Ltd Foxford Road Swinford Mayo F12 P970", "web": "https://www.brbhomes.ie/", "coords": "53.95097541879314, -8.969789371672523", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "IE006", "name": "BuildWright (Ireland)", "num": "0", "price": "0", "address":"Swanns Cross Rockcorry Co. Monaghan Ireland H18 Y427", "web": "https://buildwright.ie/", "coords": "54.1510147212276, -7.004374969318924", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "IE007", "name": "Scandinavian Homes (Ireland)", "num": "0", "price": "0", "address":"Barna Road, Moycullen, Co. Galway, H91 YX61, Ireland", "web": "https://www.scanhome.ie/", "coords": "53.31424466233052, -9.148915066156288", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
 		{"id": "PH001", "name": "Smart House (Pkilipines)", "num": "0", "price": "0", "address":"128 kamuning road , Quezon City, Philippines", "web": "https://www.smarthouseprefab.com.ph/", "coords": "14.630623609660402, 121.04511685394132", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
@@ -319,6 +318,7 @@
 
 		{"id": "CL001", "name": "Casas Latam (Chile)", "num": "0", "price": "0", "address":"Cauquenes 6130, Cerro Navia.", "web": "https://casaslatam.cl/", "coords": "-33.427592045656276, -70.72029876091665", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
+		{"id": "CH001", "name": "Gliami (China)", "num": "0", "price": "0", "address":"Dong Shandong Road North,Jiulonggang Town,Datong District Jiulonggang,Huainan City Town,Anhui Province.", "web": "https://glamni.com/", "coords": "32.61294456948655, 117.10129436973642", "gob": "no", "score": "5", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "CN001", "name": "Qingdao Liansheng International Trade Co., Ltd. (China)", "num": "0", "price": "0", "address":"No. 398, Yu Chang Road, ChangLe Industrial Park, WeiFang, Shandong, China.", "web": "https://www.lianshenghouse.com/", "coords": "36.73278455526413, 118.83614145454423", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "CN001", "name": "Capsule Castle (China)", "num": "0", "price": "0", "address":"Huanglou Town, Qingzhou City, Shandong Province, China", "web": "https://capsulecastle.com/", "coords": "36.64799650868779, 118.606902867938", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
 
