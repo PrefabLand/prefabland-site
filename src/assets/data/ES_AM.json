@@ -1,6 +1,6 @@
 {
 	
-	"coords" : {"lat": 17.266343220304414, "lng": -80.79314075533965, "zoom": 3},
+	"coords" : {"lat": 10.098273842880856, "lng": -84.08903651800999, "zoom": 3},
 	"RES" : [
 		{"id": "US001", "name": "DVELE (USA)", "num": "0", "price": "0", "address":"5521 La Jolla Blvd, La Jolla, CA 92037, United States", "web": "https://www.dvele.com/", "coords": "32.813100905643545, -117.26836088465947", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "US002", "name": "BOXABL (USA)", "num": "0", "price": "0", "address":"5345 E N Belt Rd, Las Vegas, NV 89115, United States", "web": "https://www.boxabl.com/", "coords": "36.276812834293075, -115.0559944465946", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
