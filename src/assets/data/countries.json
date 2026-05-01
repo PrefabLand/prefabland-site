@@ -1,8 +1,8 @@
 [
 	{ "name": "España", "code": "ES", "inactive": false, "cities": [
-		{ "name": "Europe", "code": "EU", "inactive": false, "visible": true },
 		{ "name": "America", "code": "AM", "inactive": false, "visible": true },
-		{ "name": "Asia", "code": "AS", "inactive": false, "visible": true }
+		{ "name": "Asia", "code": "AS", "inactive": false, "visible": true },
+		{ "name": "Europe", "code": "EU", "inactive": false, "visible": true }
 	]}, 
 	{ "name": "Portugal", "code": "PT", "inactive": true, "cities": [
 	]}, 

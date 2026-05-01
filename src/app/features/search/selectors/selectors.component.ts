@@ -35,7 +35,7 @@ export class SelectorsComponent {
 	selectedServiceCode = 'RE';
 
   cities: City[];
-	selectedCityCode = 'EU';
+	selectedCityCode = 'AM';
 
   countries: Country[];
 	selectedCountryCode = 'ES';

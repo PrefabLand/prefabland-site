@@ -7,7 +7,7 @@ import { ListboxModule } from 'primeng/listbox';
 import { SplitterModule } from 'primeng/splitter';
 import { MenubarModule } from 'primeng/menubar';
 
-import merchants_ES_EU from '../../../assets/data/ES_EU.json';
+import merchants_ES_AM from '../../../assets/data/ES_AM.json';
 import { ScrollPanelModule } from 'primeng/scrollpanel';
 import { PanelModule } from 'primeng/panel';
 import { DataImportsService } from '../../services/dataImportsService';
@@ -46,8 +46,8 @@ export class SearchPage {
 			this.desktop = false;
 		}
 
-		this.merchants = merchants_ES_EU.RES.sort((a,b) => a.score && b.score ? (Number(b.score) - Number(a.score)) : -1)
-		this.coords = merchants_ES_EU.coords;
+		this.merchants = merchants_ES_AM.RES.sort((a,b) => a.score && b.score ? (Number(b.score) - Number(a.score)) : -1)
+		this.coords = merchants_ES_AM.coords;
 	}
 
 	onChange(change: boolean) {
