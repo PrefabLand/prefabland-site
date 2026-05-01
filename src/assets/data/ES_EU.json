@@ -203,6 +203,8 @@
 
 		{"id": "CR001", "name": "Modular Homes Factory (Croatia)", "num": "0", "price": "0", "address":"10380 Sveti Ivan Zelina, Croatia", "web": "https://www.karmod.eu/modular-homes/", "coords": "45.958074443568, 16.24586147361456", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
+		{"id": "MO001", "name": "Modula Haus (Montenegro)", "num": "0", "price": "0", "address":"Kotor Municipality, Montenegro", "web": "https://modulahaus.com/", "coords": "42.49637803255088, 18.730339346732322", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
 		{"id": "UA001", "name": "NOVA TEQ (Ukrania)", "num": "0", "price": "0", "address":"Ivano-Frankivsk Oblast, 77420, Ukraine", "web": "https://novateq.haus/en/", "coords": "49.00858219940133, 24.56863867035253", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "UA001", "name": "UNIT BUD (Ukrania)", "num": "0", "price": "0", "address":"Zhytomyr 10031, Ukraine", "web": "https://unitbud.com/", "coords": "50.27946569516559, 28.656637278479206", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "UA001", "name": "UnitFab (Ukrania)", "num": "0", "price": "0", "address":"136-a Sadova St, 106, Kyiv, Ukraine, 02000", "web": "https://unitfab.com/en", "coords": "50.39134702134315, 30.621711815340543", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },

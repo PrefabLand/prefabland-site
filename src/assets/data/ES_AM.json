@@ -70,6 +70,14 @@
 
 		{"id": "MX001", "name": "Mexico al Cubo (Mexico)", "num": "0", "price": "0", "address":"C. Primera Sur 2, Independencia, 54915 Tultitlán de Mariano Escobedo, Méx., Mexico", "web": "https://mexicoalcubo.com/", "coords": "19.627475803716653, -99.17986174417477", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
+		{"id": "PE001", "name": "ModuHaus (Peru)", "num": "0", "price": "0", "address":"Centro Industrial La Chutana Mz. H Lt. 13 – Chilca", "web": "https://modulhaus.pe/", "coords": "-12.484204284084685, -76.72595181725538", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PE002", "name": "Mordi (Peru)", "num": "0", "price": "0", "address":"Punta Negra, Lima", "web": "https://www.mordi.tech/", "coords": "-12.306392236647905, -76.71063150916801", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PE003", "name": "Alquimodul (Peru)", "num": "0", "price": "0", "address":"Centro Industrial La Chutana Mz. H Lt. 13  Urb. Zona 01 Chilca – Cañete – Lima", "web": "https://www.alquimodul-peru.com/", "coords": "-12.484235709560938, -76.72598400376079", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PE004", "name": "Cass Cayupe (Peru)", "num": "0", "price": "0", "address":"Carretera Central km 15.5, Ate, Lima", "web": "https://www.casasprefabricadas.pe/", "coords": "-12.011724924659571, -76.87721926143739", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PE005", "name": "Mavit (Peru)", "num": "0", "price": "0", "address":"Asoc. Resid. Las Viñas del Norte II Etap. Dpto. Par 9 Mz. A Lt. 17-Puente Piedra-lima", "web": "https://mavit.com.pe/", "coords": "-11.929645240041632, -77.08868180540078", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PE006", "name": "Casas Prefabricadas Turcos Piura (Peru)", "num": "0", "price": "0", "address":"COSTECASA, Carrer del Carç, 56, izq, 08810 Sant Pere de Ribes, Barcelona, Spain", "web": "https://casasprefabricadasturcos.com/", "coords": "-5.20615889227279, -80.64809384293446", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "PE007", "name": "R-Modulares (Peru)", "num": "0", "price": "0", "address":"Calle Aricota Nº 106 – Oficina Nº 701, Santiago de Surco, Lima – Perú", "web": "https://r-modulares.com/", "coords": "-12.114247750443909, -76.9920775749306", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
 		{"id": "CL001", "name": "Casas Latam (Chile)", "num": "0", "price": "0", "address":"Cauquenes 6130, Cerro Navia.", "web": "https://casaslatam.cl/", "coords": "-33.427592045656276, -70.72029876091665", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
 
 	],
