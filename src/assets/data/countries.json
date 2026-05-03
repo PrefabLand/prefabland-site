@@ -6,7 +6,7 @@
 	]}, 
 	{ "name": "Portugal", "code": "PT", "inactive": true, "cities": [
 	]}, 
-	{ "name": "México", "code": "MX", "inactive": false, "cities": [
+	{ "name": "México", "code": "MX", "inactive": true, "cities": [
 		{ "name": "Cuernavaca", "code": "CV", "inactive": false, "visible": true }
 	]}
 ]
