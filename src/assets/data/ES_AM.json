@@ -135,7 +135,9 @@
 		{"id": "PA001", "name": "CasaFacil (Paraguay)", "num": "0", "price": "0", "address":"Bernardino Caballero 1270, entre Tte. Vera y Lillo, 1270, Asuncion, Central 0000, PY", "web": "https://www.casafacil.com.py/", "coords": "-25.29198014320078, -57.55649313539426", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "PA002", "name": "Tecnimet (Paraguay)", "num": "0", "price": "0", "address":"Villa Elisa 110715, Paraguay", "web": "https://tecnimet.com/", "coords": "-25.339985193402907, -57.588861842329095", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "PA003", "name": "Premium Containers (Paraguay)", "num": "0", "price": "0", "address":"Ruta 3 Gral. Aquino Km18 - Mariano Roque Alonso", "web": "https://www.premiumcontainers.com.py/", "coords": "-25.151264399010277, -57.461342759262905", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
-		{"id": "PA004", "name": "La Fábrica (Paraguay)", "num": "0", "price": "0", "address":"Alejo Silva 2092 casi Mayor Merlo Asunción, Paraguay", "web": "https://lafabrica.com.py/", "coords": "-25.28267335277732, -57.55209449974042", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
+		{"id": "PA004", "name": "La Fábrica (Paraguay)", "num": "0", "price": "0", "address":"Alejo Silva 2092 casi Mayor Merlo Asunción, Paraguay", "web": "https://lafabrica.com.py/", "coords": "-25.28267335277732, -57.55209449974042", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
+		{"id": "AR001", "name": "Concreplac (Argentina)", "num": "0", "price": "0", "address":"Emilio Carranza 452, Coronel Brandsen, Buenos Aires.", "web": "https://www.concreplac.com/", "coords": "-34.812022716612255, -58.1768468590216", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
 
 	],
 	"CD": [
