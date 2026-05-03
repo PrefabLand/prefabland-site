@@ -43,8 +43,8 @@ export class SelectorsComponent {
 	constructor() {
 
 		this.services = [
-      { name: "Casas Modulares", code: "RE", inactive: false },
-      { name: "Casas Prefabricadas", code: "CD", inactive: false },
+      { name: "Modular Houses", code: "RE", inactive: false },
+      { name: "Prefab Houses", code: "CD", inactive: false },
     ];
     
 		this.countries = countries;
