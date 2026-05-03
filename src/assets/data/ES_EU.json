@@ -237,6 +237,7 @@
 		{"id": "SP012", "name": "The Concrete Home (Spain)", "num": "0", "price": "0", "address":"Calle Sierra de Cazorla, 1 - 28290 Madrid", "web": "http://www.theconcretehome.com/", "coords": "40.55272005686059, -3.8990162164696756", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "SP013", "name": "Keu (Spain)", "num": "0", "price": "0", "address":"Av. d'Alacant, 138, 03203 Elx, Alicante, Spain", "web": "https://keu.es/", "coords": "38.2794851285344, -0.6585944089242427", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "SP014", "name": "Solutions House (Spain)", "num": "0", "price": "0", "address":"Calle Meteorito, 3403006, Alicante, Spain", "web": "https://solutionshouse.es/", "coords": "38.353885882129184, -0.5473247607338038", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "SP015", "name": "AtlantidaHomes (Spain)", "num": "0", "price": "0", "address":"Calle Pez Austral nº 2, C.P. 28007, Madrid, España", "web": "https://atlantidahomes.com/", "coords": "40.41395509614625, -3.666635645245212", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
 		{"id": "PT001", "name": "Madeiguincho (Portugal)", "num": "0", "price": "0", "address":"R. Casal Queimado 12, 2750-492 Cascais, Portugal", "web": "http://www.madeiguincho.pt/", "coords": "38.71954370826251, -9.438420423093813", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
