@@ -1,7 +1,7 @@
 { 
 
 	"coords" : {"lat": 54.49533388009458, "lng": 13.645334761476304, "zoom": 4},
-	"RES" : [
+	"MOD" : [
 
 		{"id": "DE001", "name": "Huf Haus (Germany)", "num": "0", "price": "0", "address":"Franz-Huf-Straße 1, 56244 Hartenfels, Germany", "web": "https://www.huf-haus.com/en-uk/", "coords": "50.56963094317771, 7.784714059516211", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "DE002", "name": "Home One (Germany)", "num": "0", "price": "0", "address":"Schlesische Straße 29-30 Aufgang M |, 4. OG, 10997 Berlin, Germany", "web": "https://www.home-one.com/", "coords": "52.49895705523261, 13.446854386505404", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
@@ -198,6 +198,8 @@
 		{"id": "SL004", "name": "Nidumm (Slovenia)", "num": "0", "price": "0", "address":"Avenida de Isabel de Valois, 28050 Madrid, España", "web": "https://nookprefab.com/", "coords": "44.40671268561919, 26.209239301845944", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "SL004", "name": "RMB Modulbau (Slovenia)", "num": "0", "price": "0", "address":"Velika Polana 151 B | SI-9225 Velika Polana | Slowenien", "web": "https://rmbmodul.com/", "coords": "46.570508387256474, 16.335211583792734", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
+		{"id": "SK001", "name": "Ceramic Houses (Slovakia)", "num": "0", "price": "0", "address":"Ľudmily Podjavorinskej 8, 984 01 Lučenec, Slovakia", "web": "https://www.ceramichouses.eu/", "coords": "48.489755405439716, 19.7204915753313", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+
 		{"id": "DK001", "name": "Scandi Byg (Denmark)", "num": "0", "price": "0", "address":"Tolstrupvej 31, 9670 Løgstør, Denmark", "web": "https://www.scandibyg.dk/", "coords": "56.97376082720327, 9.296292774856749", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
 		{"id": "CZ001", "name": "Blokki (Czech Republic)", "num": "0", "price": "0", "address":"Domkki Blokki s.r.o. Hartigova 651/22 130 00 Praha 3 IČ 24057169", "web": "https://blokki.cz/", "coords": "50.08736136131056, 14.455544697453654", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
@@ -297,9 +299,9 @@
 		{"id": "IE007", "name": "Scandinavian Homes (Ireland)", "num": "0", "price": "0", "address":"Barna Road, Moycullen, Co. Galway, H91 YX61, Ireland", "web": "https://www.scanhome.ie/", "coords": "53.31424466233052, -9.148915066156288", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
 
 	],
-	"CD": [
+	"PFB": [
 	],
-	"AM": [
+	"TOU": [
 	],
 	"AD": [
 	]

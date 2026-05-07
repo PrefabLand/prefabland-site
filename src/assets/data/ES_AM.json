@@ -1,7 +1,7 @@
 {
 	
 	"coords" : {"lat": 10.098273842880856, "lng": -84.08903651800999, "zoom": 3},
-	"RES" : [
+	"MOD" : [
 		{"id": "US001", "name": "AllWood (USA)", "num": "0", "price": "0", "address":"933 Thore Road, Shelby, NC 28152", "web": "https://allwoodoutlet.com/", "coords": "35.228061308614194, -81.61480904551179", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "US002", "name": "BOXABL (USA)", "num": "0", "price": "0", "address":"5345 E N Belt Rd, Las Vegas, NV 89115, United States", "web": "https://www.boxabl.com/", "coords": "36.276812834293075, -115.0559944465946", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "US003", "name": "Dvele (USA)", "num": "0", "price": "0", "address":"3223 S. Crismon Rd. Mesa AZ 85212", "web": "http://www.dvele.com", "coords": "33.356836617230805, -111.61661521674331", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
@@ -166,9 +166,9 @@
 		{"id": "AR025", "name": "Sienna Modular (Argentina)", "num": "0", "price": "0", "address":"Shopping remeros plaza, Av. Sta. María de las Conchas 4711, B1624 Tigre, Provincia de Buenos Aires, Argentina", "web": "https://www.siennamodular.com.ar/", "coords": "-34.405164985939244, -58.62051807253081", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
 
 	],
-	"CD": [
+	"PFB": [
 	],
-	"AM": [
+	"TOU": [
 	],
 	"AD": [
 	]

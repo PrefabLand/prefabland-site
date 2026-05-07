@@ -32,7 +32,7 @@ export class SelectorsComponent {
 	@Output() onChangeEvent = new EventEmitter<boolean>();
 
 	services: Service[];
-	selectedServiceCode = 'RE';
+	selectedServiceCode = 'MOD';
 
   cities: City[];
 	selectedCityCode = 'AM';
@@ -43,8 +43,9 @@ export class SelectorsComponent {
 	constructor() {
 
 		this.services = [
-      { name: "Modular Houses", code: "RE", inactive: false },
-      { name: "Prefab Houses", code: "CD", inactive: false },
+      { name: "Modular Houses", code: "MOD", inactive: false },
+      { name: "Prefab Houses", code: "PFB", inactive: false },
+      { name: "Destinations", code: "TOU", inactive: false },
     ];
     
 		this.countries = countries;

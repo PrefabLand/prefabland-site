@@ -46,7 +46,7 @@ export class SearchPage {
 			this.desktop = false;
 		}
 
-		this.merchants = merchants_ES_AM.RES.sort((a,b) => a.score && b.score ? (Number(b.score) - Number(a.score)) : -1)
+		this.merchants = merchants_ES_AM.MOD.sort((a,b) => a.score && b.score ? (Number(b.score) - Number(a.score)) : -1)
 		this.coords = merchants_ES_AM.coords;
 	}
 
@@ -58,12 +58,12 @@ export class SearchPage {
 				.loadData(this.selectors.selectedCountryCode, this.selectors.selectedCityCode)
 				.then(result => {
 
-					if (this.selectors.selectedServiceCode === 'RE')
-						this.merchants = result.RES.sort((a: any,b: any) => a.score && b.score ? ((b.score as number) - (a.score as number)) : -1)
-					else if (this.selectors.selectedServiceCode === 'CD')
-						this.merchants = result.CD;
-					else if (this.selectors.selectedServiceCode === 'AD')
-						this.merchants = result.AD;
+					if (this.selectors.selectedServiceCode === 'MOD')
+						this.merchants = result.MOD.sort((a: any,b: any) => a.score && b.score ? ((b.score as number) - (a.score as number)) : -1)
+					else if (this.selectors.selectedServiceCode === 'PFB')
+						this.merchants = result.PFB;
+					else if (this.selectors.selectedServiceCode === 'TOU')
+						this.merchants = result.TOU;
 
 					this.coords = result.coords;
 					console.log(result.coords);

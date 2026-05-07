@@ -1,6 +1,6 @@
 { 
 	"coords" : {"lat": 20.837901570092097, "lng": 92.13166607657062, "zoom": 3},
-	"RES" : [
+	"MOD" : [
 		{"id": "JP001", "name": "Sekisui House Ltd. (Japan)", "num": "0", "price": "0", "address":"1-1-88, Oyodonaka, Kita-ku, Osaka, 531-0076, Japan", "web": "https://www.sekisuihouse.co.jp/", "coords": "34.70544245396581, 135.48961166796374", "gob": "no", "score": "4.1", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "JP002", "name": "Daiwa House Industry Co., Ltd. (Japan)", "num": "0", "price": "0", "address":"3-3-5 Umeda, Kita-ku, Osaka 530-8241", "web": "https://www.daiwahouse.com/", "coords": "34.69959352810057, 135.4922834682501", "gob": "no", "score": "3.6", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
@@ -15,6 +15,7 @@
 		{"id": "CN002", "name": "Qingdao Liansheng International Trade Co., Ltd. (China)", "num": "0", "price": "0", "address":"No. 398, Yu Chang Road, ChangLe Industrial Park, WeiFang, Shandong, China.", "web": "https://www.lianshenghouse.com/", "coords": "36.73278455526413, 118.83614145454423", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "CN003", "name": "Capsule Castle (China)", "num": "0", "price": "0", "address":"Huanglou Town, Qingzhou City, Shandong Province, China", "web": "https://capsulecastle.com/", "coords": "36.64799650868779, 118.606902867938", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "CN004", "name": "RioTinto (China)", "num": "0", "price": "0", "address":"Room 1-1213, Poly Center Commercial Building, No. 333 Jingyi Road, Huaiyin District, Jinan City, Shandong Province", "web": "https://riotsteel.com/collections/container-house", "coords": "36.66322349088852, 116.97466853920093", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
+		{"id": "CN005", "name": "GS Housing Group (China)", "num": "0", "price": "0", "address":"540，Genghe Avenue,Genghe Town,Gaoming,Guangdong Province", "web": "https://www.gshousinggroup.com/", "coords": "22.821627758425695, 112.58074926760243", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 
 		{"id": "AU001", "name": "Modscape (Australia)", "num": "0", "price": "0", "address":"112 Global Ave, Essendon Fields VIC 3041, Australia", "web": "https://modscape.com.au/", "coords": "-37.724844234799676, 144.9069412036919", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
 		{"id": "AU001", "name": "Prefabulous (Australia)", "num": "0", "price": "0", "address":"28 Bomen Road, Wagga Wagga NSW 2650 ", "web": "https://prefabulous.net.au/", "coords": "-35.07266802330281, 147.40789666982303", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} },
@@ -33,9 +34,9 @@
 		{"id": "AU014", "name": "Lendlease (Australia)", "num": "0", "price": "0", "address":"Level 14, Tower Three, International Towers Sydney Exchange Place, 300 Barangaroo Avenue Barangaroo NSW 2000", "web": "https://www.lendlease.com/au/", "coords": "-33.86401645624159, 151.20260500997722", "gob": "no", "score": "0", "LE" : {"GY": 0, "GM" : 0, "PO": 0, "GA": 0, "GH": 0} }
 		
 	],
-	"CD": [
+	"PFB": [
 	],
-	"AM": [
+	"TOU": [
 	],
 	"AD": [
 	]
